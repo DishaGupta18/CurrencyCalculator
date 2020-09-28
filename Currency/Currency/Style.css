@@ -1,0 +1,27 @@
+﻿
+
+
+body {
+    background: #e9ecef;
+    font-family: Calibri;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+button {
+    display: table-cell;
+    vertical-align: inherit;
+    background: #56a5ef;
+    font-family: Calibri;
+    color: white;
+    border-width: 0px;
+    height: 30px;
+}
+
+
+       
+   
